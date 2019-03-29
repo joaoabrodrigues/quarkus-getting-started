@@ -7,6 +7,10 @@
 .idea/**/dictionaries
 .idea/**/shelf
 
+.idea/
+
+getting-started.iml
+
 # Generated files
 .idea/**/contentModel.xml
 
